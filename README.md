@@ -1,7 +1,6 @@
 Hello!! 
 My name is Aesha and i'm a final year cybersecurity Student.
-This repo is to showcase any projects i've done so far
-My first project is a keylogger
+This repo is to showcase any projects i've done so far.
 
 
 **Simple Keylogger**
