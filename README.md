@@ -1,7 +1,7 @@
 This repository contains a collection of Python-based projects that demonstrate different applications ranging from games to utility tools. Below is a detailed description of each project:
 ________________________________________
 1. Keylogger
-Description
+   
 A simple Python-based keylogger that records all the keystrokes typed by the user. The program logs characters only and excludes special keys like backspace or modifiers.
 Features
 •	Logs user input characters to a text file.
@@ -12,7 +12,7 @@ Usage
 2.	Run the script and check the log.txt file for captured keystrokes.
 ________________________________________
 2. Dice Roller Simulator
-Description
+
 A simple dice roller simulation that generates a random number between 1 and 6. Users can continue rolling the dice or exit the program.
 Features
 •	Randomized dice rolls.
@@ -23,7 +23,7 @@ Usage
 2.	Follow the prompts to roll the dice or quit.
 ________________________________________
 3. Rock-Paper-Scissors Game
-Description
+
 A classic Rock-Paper-Scissors game built with Python and Tkinter. The game allows the player to compete against the computer.
 Features
 •	Interactive GUI built with Tkinter.
@@ -35,7 +35,7 @@ Usage
 3.	Choose "Rock", "Paper", or "Scissors" and see the result.
 ________________________________________
 4. Flappy Bird Game
-Description
+
 A Python implementation of the popular Flappy Bird game using the Pygame library. Players control the bird and try to avoid obstacles to achieve a high score.
 Features
 •	Customizable game assets.
@@ -47,3 +47,18 @@ Setup
 3.	Place the assets in an images folder within the project directory.
 4.	Install Pygame using pip install pygame.
 5.	Run the script and enjoy the game.
+________________________________________
+5. Password Strength Analyzer 
+
+* A Python script to evaluate password strength.
+* Checks password against key criteria:
+
+  * Minimum length (8 characters)
+  * Uppercase letters
+  * Lowercase letters
+  * Numbers
+  * Special characters
+* Provides a *strength score (0–5)* and a *rating* (*Weak → Very Strong*).
+* Offers *feedback and suggestions* to improve password security.
+
+
